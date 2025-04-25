@@ -1,5 +1,7 @@
 # PROJETO-DIO
+
 Descrição do Desafio
+
 Este laboratório tem como objetivo praticar o processo de criação e configuração de uma máquina virtual na plataforma Microsoft Azure.
 Como entregável, o desafio proposto é a criação de um repositório contendo resumos, anotações e dicas sobre o uso da Azure, 
 servindo como material de apoio para estudos e futuras implementações.
@@ -32,7 +34,7 @@ Governança: Auditoria baseada em nuvem ajuda sinalizando qualquer recurso que e
 Gerenciamento: Capacidade de gerenciamento por meio do portal da web, interface de linhas de comando, usando APIs ou usando o PowerShell.
 
 
-CRIAÇÂO DE UMA MAQUINA VIRTUAL NO AZURE
+CRIAÇÃO DE UMA MAQUINA VIRTUAL NO AZURE
 
 No portal web na Azure, pesquisar por Máquinas virtuais; selecionar serviços e logo em seguida selecionar Máquinas virtuais;
 Clicar em Criar Máquina virtual Azure
